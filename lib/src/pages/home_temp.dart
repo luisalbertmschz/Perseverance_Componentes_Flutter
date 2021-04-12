@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
  class HomePageTemp extends StatelessWidget {
 
 
-   final opciones =['1️⃣ Lentes de sol', '2️⃣ Accesorio Electrónicos', '3️⃣Juguetes', '4️⃣ ACC Personales', '5️⃣ Cinco', '6️⃣ Seis'];
+   final opciones =['1️⃣ Lentes de soli', '2️⃣ Accesorio Electrónicos', '3️⃣Juguetes', '4️⃣ ACC Personales', '5️⃣ Cinco', '6️⃣ Seis'];
  
    @override
    Widget build(BuildContext context) {
